@@ -1,8 +1,5 @@
-# K8 - The First Standalone Serverless Messenger Bot
-## About
-its amazing
-### heading3
-#### heading4
+### K8 - The First Standalone Serverless Messenger Bot
+#### This is a help page
 
 [This is a link](https://raw.githubusercontent.com/GEULACH/K8/master/yt)
 
