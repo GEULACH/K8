@@ -2,7 +2,7 @@
 
 K8, a.k.a Kate is the first standalone serverless multiplatform messenger bot
 
-## HELP - List of all commands
+## HELP
 
 - [Commands](https://raw.githubusercontent.com/GEULACH/K8/master/h1)
 - [Youtube](https://raw.githubusercontent.com/GEULACH/K8/master/h2)
