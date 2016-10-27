@@ -1,7 +1,6 @@
 ## K8™
 
-### About
-K8 a.k.a Kate is the first standalone serverless multiplatform messenger bot
+K8, a.k.a Kate is the first standalone serverless multiplatform messenger bot
 
 #### Help
 
