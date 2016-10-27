@@ -1,5 +1,9 @@
-### K8 - The First Standalone Serverless Messenger Bot
-#### This is a help page
+## K8™
+
+### About
+K8 a.k.a Kate is the first standalone serverless multiplatform messenger bot
+
+#### Help
 
 [This is a link](https://raw.githubusercontent.com/GEULACH/K8/master/yt)
 
