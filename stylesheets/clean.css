@@ -4,3 +4,4 @@ a:link    {color:white; cursor:pointer; background-color:transparent; text-decor
 a:visited {color:white; cursor:pointer; background-color:transparent; text-decoration:none;}
 a:hover   {color:red; cursor:pointer; background-color:transparent; text-decoration:none;}
 a:active  {color:white; cursor:pointer; background-color:transparent; text-decoration:none;}
+.list {white-space:pre-wrap;}
